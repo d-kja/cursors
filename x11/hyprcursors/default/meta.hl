@@ -1,0 +1,17 @@
+resize_algorithm = none
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, default_000.png, 83
+define_size = 32, default_001.png, 83
+define_size = 32, default_002.png, 83
+define_size = 32, default_003.png, 83
+define_size = 32, default_004.png, 83
+define_size = 32, default_005.png, 83
+define_size = 32, default_006.png, 83
+define_size = 32, default_007.png, 83
+define_size = 32, default_008.png, 83
+define_size = 32, default_009.png, 83
+define_size = 32, default_010.png, 83
+define_size = 32, default_011.png, 83
+
