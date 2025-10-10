@@ -1,0 +1,17 @@
+resize_algorithm = none
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, pointer_000.png, 83
+define_size = 32, pointer_001.png, 83
+define_size = 32, pointer_002.png, 83
+define_size = 32, pointer_003.png, 83
+define_size = 32, pointer_004.png, 83
+define_size = 32, pointer_005.png, 83
+define_size = 32, pointer_006.png, 83
+define_size = 32, pointer_007.png, 83
+define_size = 32, pointer_008.png, 83
+define_size = 32, pointer_009.png, 83
+define_size = 32, pointer_010.png, 83
+define_size = 32, pointer_011.png, 83
+
