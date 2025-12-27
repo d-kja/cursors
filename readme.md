@@ -8,6 +8,8 @@
 
 - [windows to x11 cursor](https://github.com/quantum5/win2xcur)
 
+- [x11 conventions](https://www.freedesktop.org/wiki/Specifications/cursor-spec/) `you can also use cursor view to map the correct aliases`
+
 ## Deps
 
 - xcur2png
