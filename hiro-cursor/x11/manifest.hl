@@ -1,4 +1,4 @@
 name = hiro-cursor
 description = Hiro cursor
 version = 0.1
-cursors_directory = hyprcursors
+cursors_directory = cursors
